@@ -1,4 +1,8 @@
-{
+{"css.validate": true,
+"tailwindCSS.emmetCompletions": true,
+"files.associations": {
+  "*.css": "postcss"
+},
   "recommendations": [
     "Vue.volar",
     "Vue.vscode-typescript-vue-plugin",
